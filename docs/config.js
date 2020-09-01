@@ -22,8 +22,8 @@ function log() {
 var auth_server_uri = "https://v1.api.us.janrain.com/"
 var customer_id = "e0fe87a8-5911-4ea2-a2ea-9e98d2cf9805";
 var client_id = "000604d7-3e90-4a9e-8791-0e0b64d19e16";
-var redirect_uri = "http://travelix.guoqing.li/callback.html";
-var post_logout_redirect_uri = "http://travelix.guoqing.li/index.html";
+var redirect_uri = "https://travelix.guoqing.li/callback.html";
+var post_logout_redirect_uri = "https://travelix.guoqing.li/index.html";
 //#################### Configuarations over. 
 
 
